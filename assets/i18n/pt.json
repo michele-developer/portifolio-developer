@@ -1,0 +1,300 @@
+{
+  "home": {
+      "flag": "../assets/pt.svg",
+      "menu": [
+          {
+              "id": "#inicio",
+              "text": "Inicio"
+          },
+          {
+              "id": "#profissional",
+              "text": "Profissional"
+          },
+          {
+              "id": "#publications",
+              "text": "Habilidades"
+          }
+      ],
+      "about": {
+          "title": "Sobre Mim",
+          "description": [
+              "Sou Michele Inês, moro em São Paulo Capital, atualmente não estou trabalhando e estou aberta a oportunidades.", 
+              "Minha última atuação foi no projeto híbrido com upgrade de tecnologia antiga para tecnologia mais recente e soluções sistema web, usando arquitetura hexagonal e clean arquitetura.",
+              "Gosto de atuar com otimização de processos no desenvolvimento de projeção escalável.", 
+              "Tenho como hobbys: jogo de games online, assistir filmes, séries, desenvolvimento mobile e jogar futsal."
+          ],
+          "buttons": {
+              "download": "Baixar Currículo Completo",
+              "informations": "Mais Informações"
+          },
+          "skills": {
+              "programmingLanguage": "JavaScript, TypeScript, Java, Objective-C",
+              "frameworks": " AngularJS, Angular 2++, Vue, Bootstrap",
+              "styles": "HTML, Css - Scss - Less - Style - StyledComponent",
+              "lib": "Npm, NodeJS, Webpack, Gulp, Yarn, Packages",
+              "fluxoAzureDevops": "Overview, Boards, Pull Request, Sprint, Backlog, Braches, Pushes, Commits, Repos, Pipelines",
+              "data": "Swagguer",
+              "metodologiasAgeis":"Scrum, kanban",
+              "test": "Testes Unitários (Karma, Jasmine)"
+          }
+      },
+      "professional": {
+          "title": "Carreira Profissional",
+          "timeline": [
+              {
+                  "box": {
+                      "effect": "fade-left",
+                      "icon": "fas fa-user-tie",
+                      "year": "2020 - 2022"
+                  },
+                  "company": {
+                      "title": "Desenvolvedor Front End",
+                      "state": null,
+                      "name": " - GENIAL I.",
+                      "responsibilities": [
+                          "Desenvolvimento, upgrade e Manutenção de projetos utilizando JavaScript, TypeScript, Node.js, Npm, Git, Figma, Scrum, gulp, Packages, Yarn, HTML, kanban Bootstrap, Angular Material e Testes",
+                          "Unitários. Estilização(CSS, Style) e integração a API (Swagger),Git Bash, Azure Devops Pull Request, Sprint, Braches, Pushes, Commits, Pipelines, etc...."
+                      ]
+                  }
+              },
+              {
+                  "box": {
+                      "effect": "fade-right",
+                      "icon": "fas fa-graduation-cap",
+                      "year": "2014 - 2019"
+                  },
+                  "company": {
+                      "title": "Graduação - Engenharia de Computação",
+                      "state": null,
+                      "name": null,
+                      "responsibilities": [
+                          "UAM - Universidade Anhembi Morumbi",
+                          "Câmpus Vila Olímpia",
+                          "Preparo para atuar",
+                          "nas áreas de desenvolvimento de software e Hardware"
+                      ]
+                  }
+              },
+              {
+                  "box": {
+                      "effect": "fade-left",
+                      "icon": "fas fa-user-tie",
+                      "year": "2019 - 2020"
+                  },
+                  "company": {
+                      "title": "Analista de Sistema",
+                      "state": null,
+                      "name": "- ACCENTURE",
+                      "responsibilities": [
+                        "Desenvolvimento e Manutenção de projetos utilizando JavaScript, C#, Node.js, Npm, Git, Scrum, gulp, Packages, HTML, kanban Bootstrap e Testes Unitários",
+                        "Estilização(CSS, Style), integração a API, SoapUI, Git Hub, GitLab, Jira, Git Bash, Azure Devops Pull Request, Sprint, Braches, Pushes, Commits, Pipelines, etc...."
+                      ]
+                  }
+              },
+              {
+                  "box": {
+                      "effect": "fade-right",
+                      "icon": "fas fa-code",
+                      "year": "2015 - 2017"
+                  },
+                  "company": {
+                      "title": "Cursos Técnicos",
+                      "state": null,
+                      "name": null,
+                      "responsibilities": [
+                          "* Desenvolvedor Front End",
+                          "* SEO | Web Mobile",
+                          "* SEO | Web Mobile",
+                          "* SEO | Web Mobile",
+                          "* Web Performance e PageSpeed Insights/Ninja"
+                      ]
+                  }
+              },
+              {
+                  "box": {
+                      "effect": "fade-left",
+                      "icon": "fas fa-user-tie",
+                      "year": "2017 - 2019"
+                  },
+                  "company": {
+                      "title": "Analista de Sistema",
+                      "state": null,
+                      "name": "- PRODAM",
+                      "responsibilities": [
+                          "Estágio de núcleo de monitoramento em atividades de tecnologia de informação sobre infraestrutura a", 
+                          "partir da ferramenta disponibilizadas, dando auxiliar no suporte de alta e baixa plataforma, suporte em infraestrutura de link rede,",
+                          "TCP/IP, LAN, MAN, WAN, WLAN, telecomunicações, gerando novos protocolos de incidentes alarmados."
+                      ]
+                  }
+              },
+              {
+                  "box": {
+                      "effect": "fade-right",
+                      "icon": "fas fa-address-book",
+                      "year": "2019 - 2022"
+                  },
+                  "company": {
+                      "title": "Membro de Grupo e forum",
+                      "state": null,
+                      "name": null,
+                      "responsibilities": [
+                          "Organização de atividades inclusivas para 'calouros'. Levantamento de ideias para melhor",
+                          "convívio entre os estudantes universitários.",
+                          "Objetivo de melhora de performace no desenvolvimento e código limpo."
+                      ]
+                  }
+              },
+              {
+                  "box": {
+                      "effect": "fade-left",
+                      "icon": "fas fa-user-tie",
+                      "year": "2015 - 2017"
+                  },
+                  "company": {
+                      "title": "Desenvolvedor Mobile IOS e Android",
+                      "state": null,
+                      "name": " - PEKUS",
+                      "responsibilities": [
+                          "Desenvolvimento de sistema corporativo móvel Smartphone para aplicações de dispositivos móveis", 
+                          "(IOS, Android e tablete), usando fluxo de ambiente de desenvolvimento Xamarin, Xcode e Android Studio com",
+                          "interface gráfica e layout, Apis, Framework", "comunicação entre processos na linguagem de programação, acessam os recursos de telefonia e realizações de testes."
+                      ]
+                  }
+              }
+          ]
+      },
+      "publications": {
+          "title": "Habilidades",
+          "list": [
+              {
+                "image": {"path": "../../../assets/icons/html.svg"},
+                "title":"HTML",
+                  "path": "https://developer.mozilla.org/pt-BR/docs/Web/HTML"
+              },
+              {
+                "image": {"path": "../../../assets/icons/javascript.svg"},
+                "title":"JavaScript",
+                  "path": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+              },
+              {
+                "image": {"path": "../../../assets/icons/npm.svg"},
+                "title":"npm",
+                "path": "https://docs.npmjs.com/"
+              },
+              {
+                "image": {"path": "../../../assets/icons/nodejs.svg"},
+                "title":"Nodejs",
+                "path": "https://nodejs.org/en/docs/"
+              },
+              {
+                "image": {"path": "../../../assets/icons/angular.svg"},
+                "title":"Angular Material UI",
+                "path": "https://material.angular.io/"
+              },
+              {
+                "image": {"path": "../../../assets/icons/git.svg"},
+                "title":"Git",
+                "path": "https://git-scm.com/docs/git/pt_BR"
+              },
+              {
+                "image": {"path": "../../../assets/icons/gulp.svg"},
+                "title":"Gulp",
+                "path": "https://developer.mozilla.org/pt-BR/docs/Web/CSS"
+              },
+              {
+                "image": {"path": "../../../assets/icons/android-studio.svg"},
+                "title":"Android Studio",
+                "path": "https://developer.android.com/docs"
+              },
+              {
+                "image": {"path": "../../../assets/icons/vue.svg"},
+                "title":"Vue.js",
+                "path": "https://vuejs.org/guide/introduction.html"
+              },
+              {
+                "image": {"path": "../../../assets/icons/css.svg"},
+                "title":"CSS",
+                "path": "https://developer.mozilla.org/pt-BR/docs/Web/CSS"
+              },
+              {
+                "image": {"path": "../../../assets/icons/azure.svg"},
+                "title":"Azure Devops",
+                "path": "https://docs.microsoft.com/pt-br/azure/devops/?view=azure-devops"
+              },
+              {
+                "image": {"path": "../../../assets/icons/angularjs.svg"},
+                "title":"AngularJS",
+                "path": "https://docs.angularjs.org/tutorial"
+              },
+              {
+                "image": {"path": "../../../assets/icons/typescript.svg"},
+                "title":"TypeScript",
+                "path": "https://www.typescriptlang.org/docs/"
+            },
+            {
+              "image": {"path": "../../../assets/icons/yarn.svg"},
+              "title":"Yarn",
+              "path": "https://classic.yarnpkg.com/en/docs"
+            },
+            {
+              "image": {"path": "../../../assets/icons/bootstrap.svg"},
+              "title":"Bootstrap",
+              "path": "https://getbootstrap.com/docs/5.2/getting-started/introduction/"
+            },
+            {
+              "image": {"path": "../../../assets/icons/stylus.svg"},
+              "title":"Styl",
+              "path": "https://stylus-lang.com/docs/css-style.html"
+            },
+            {
+              "image": {"path": "../../../assets/icons/scrum.svg"},
+              "title":"Scrum",
+              "path": "https://scrumguides.org/index.html"
+            },
+            {
+              "image": {"path": "../../../assets/icons/kanban.svg"},
+              "title":"Kanban",
+              "path": "https://docs.kanboard.org/en/latest/user_guide/introduction.html"
+            },
+            {
+              "image": {"path": "../../../assets/icons/figma.svg"},
+              "title":"Figma",
+              "path": "https://www.figma.com/"
+            },
+            {
+              "image": {"path": "../../../assets/icons/vscode.svg"},
+              "title":"VS code",
+              "path": "https://code.visualstudio.com/docs"
+            },
+            {
+              "image": {"path": "../../../assets/icons/adobe-xd.svg"},
+              "title":"Adobe XD",
+              "path": "https://developer.adobe.com/xd/uxp/"
+            },
+            {
+              "image": {"path": "../../../assets/icons/bitbucket.svg"},
+              "title":"Bitbucket",
+              "path": "https://bitbucket.org/product/guides"
+            }
+            ,
+            {
+              "image": {"path": "../../../assets/icons/gitlab.svg"},
+              "title":"GitLab",
+              "path": "https://docs.gitlab.com/"
+            },
+            {
+              "image": {"path": "../../../assets/icons/github.svg"},
+              "title":"Github",
+              "path": "https://docs.github.com/pt"
+            }
+          ],
+          "button": "Ver mais..."
+      },
+      "footer": {
+          "title": "Redes Sociais",
+          "adress": {
+              "country": "Brasil"
+          }
+      }
+  }
+}
